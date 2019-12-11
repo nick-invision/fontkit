@@ -1,5 +1,5 @@
 {
-  "name": "fontkit-fork-1.8.0",
+  "name": "fontkit-fork-inv",
   "version": "1.8.0",
   "description": "An advanced font engine for Node and the browser",
   "keywords": [
@@ -39,7 +39,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/foliojs/fontkit.git"
+    "url": "git://github.com/nick-invision/fontkit.git"
   },
   "dependencies": {
     "babel-runtime": "^6.11.6",
